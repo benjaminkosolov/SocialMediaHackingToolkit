@@ -1,5 +1,4 @@
 ### NOTE -> not maintained!!!
-_[click here](https://www.instagram.com/nullpulsegithub/)_ if you want to ask something.
 
 ---
 
@@ -17,19 +16,10 @@ Social Media Hacking Toolkit
 </div>
 
  
-
- <h6><p align="center">
-    perform different types of <a href="https://github.com/NullPulse/SocialMediaHackingToolkit/blob/main/cmd/supported-attack.txt">attacks</a> on many <a href="https://github.com/NullPulse/SocialMediaHackingToolkit/blob/main/cmd/supported-social.txt">social media</a>
-</p></h6>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/release-v0.3.2-141449" alt=""/>
   <img src="https://img.shields.io/badge/written in-python | php-141449" alt=""/>
-  <img src="https://img.shields.io/badge/author-NullPulse-141449" alt=""/>
- <h6><p align="center" style="color:yellow">
-    <i>please read at least the section regarding <a href="https://github.com/NullPulse/SocialMediaHackingToolkit#Trustability">trustability</a>
-</i></a>
-</p></h6>
 
 ---
 
@@ -67,7 +57,7 @@ this section explains how to install and run the tool on:<br> ubuntu, arch, void
 <h5><p align="center">Ubuntu / Debian</p></h3>
 
 ```
-git clone https://github.com/NullPulse/SocialMediaHackingToolkit
+git clone https://github.com/benjaminkosolov/SocialMediaHackingToolkit
 
 cd SocialMediaHackingToolkit
 
@@ -92,7 +82,7 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/NullPulse/SocialMediaHackingToolkit
+git clone https://github.com/benjaminkosolov/SocialMediaHackingToolkit
 
 cd SocialMediaHackingToolkit
 
@@ -117,7 +107,7 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/NullPulse/SocialMediaHackingToolkit
+git clone https://github.com/benjaminkosolov/SocialMediaHackingToolkit
 
 cd SocialMediaHackingToolkit
 
@@ -142,7 +132,7 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/NullPulse/SocialMediaHackingToolkit
+git clone https://github.com/benjaminkosolov/SocialMediaHackingToolkit
 
 cd SocialMediaHackingToolkit
 
@@ -167,7 +157,7 @@ chmod +x linux.sh
 
 
 ```
-git clone https://github.com/NullPulse/SocialMediaHackingToolkit
+git clone https://github.com/benjaminkosolov/SocialMediaHackingToolkit
 
 cd SocialMediaHackingToolkit
 
@@ -327,13 +317,6 @@ you can verify that the program works by testing it on **your profile**, open th
   <img src="images/issues.gif" alt=""/>
 </p>
 
-If you have encountered an issue with SocialMediaHackingToolkit or would like to suggest an improvement, please report it in our [Issues section](https://github.com/NullPulse/SocialMediaHackingToolkit/issues).<br> Please provide as much detail as possible about the issue or suggestion so that we can resolve or implement it as soon as possible.<br> <b>Thank you for your contribution!</b>
+If you have encountered an issue with SocialMediaHackingToolkit or would like to suggest an improvement, please report it in our [Issues section](https://github.com/benjaminkosolov/SocialMediaHackingToolkit/issues).<br> Please provide as much detail as possible about the issue or suggestion so that we can resolve or implement it as soon as possible.<br> <b>Thank you for your contribution!</b>
 
 <br>
-
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=NullPulse/socialmediahackingtoolkit&type=Date)](https://star-history.com/#NullPulse/socialmediahackingtoolkit&Date)
-

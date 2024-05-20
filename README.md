@@ -1,5 +1,3 @@
----
-
 <div align="center">
   <pre style="display: inline-block; border: 1px solid; padding: 10px;">
  ________  ___ _   _ 

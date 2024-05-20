@@ -1,5 +1,3 @@
-### NOTE -> not maintained!!!
-
 ---
 
 <div align="center">
